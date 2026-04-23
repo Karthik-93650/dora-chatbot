@@ -1,29 +1,25 @@
-# 🤖 Dora – A Friendly Rule-Based Chatbot
+# 🤖 Dora Chatbot
 
-## 📌 Description
-Dora is a simple, human-like, rule-based chatbot built using Python.  
-She interacts with users using friendly responses and basic `if-elif` logic, making conversations feel natural and easy.
-
-This project is designed for beginners to understand:
-- Control flow
-- Input/output handling
-- Functions
-- Basic chatbot logic
+A simple Python chatbot that can interact with users using rule-based logic, basic memory, and dynamic responses.
 
 ---
 
-## 🛠️ Tools Used
+## 🚀 Features
+- 👋 Greets users and handles basic conversation
+- 🧠 Remembers user's name
+- ⏰ Provides current time and date
+- 💬 Dynamic responses for unknown inputs
+- 🔁 Continuous chat loop until user exits
+
+---
+
+## 🛠️ Tech Stack
 - Python
+- Standard Libraries (datetime, random)
 
 ---
 
-## ✨ Features
-- Friendly and humanized responses
-- Uses functions (clean & reusable)
-- Simple rule-based conversation
-- Easy to extend with new replies
-- Command-line interaction
-
----
-
-## 📂 Project Structure
+## ▶️ How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/dora-chatbot.git
